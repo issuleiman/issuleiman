@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @issuleiman
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning python
+- 🌱 I’m currently M.TECH Student 
 - 💞️ I’m looking to collaborate on app dev
 - 📫 How to reach me @iam_suleman 💡 IG
 
